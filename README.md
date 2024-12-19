@@ -16,15 +16,15 @@ This project is a modular Python-based web scraper designed to extract outbound 
 webscraping/
 │
 ├── modules/
-│   ├── __init__.py               # Makes the modules folder a package
-│   ├── get_content.py            # Fetches the page content
-│   ├── parse_html.py             # Parses HTML content using BeautifulSoup
-│   ├── extract_links.py          # Extracts all links from the parsed HTML
-│   ├── filter_links.py           # Filters and returns only outbound links
-│   ├── is_outbound.py            # Checks if a link is outbound
-│   └── display_links.py          # Displays the extracted links
+│   ├── __init__.py              
+│   ├── get_content.py           
+│   ├── parse_html.py             
+│   ├── extract_links.py          
+│   ├── filter_links.py           
+│   ├── is_outbound.py           
+│   └── display_links.py          
 │
-└── main.py                       # Main script to orchestrate the scraping process
+└── main.py                      
 ```
 
 ## Requirements
