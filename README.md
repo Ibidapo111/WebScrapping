@@ -1,6 +1,5 @@
 
-```markdown
-# Reddit Outbound Link Scraper
+### Reddit Outbound Link Scraper
 
 This project is a modular Python-based web scraper designed to extract outbound links (links pointing to external websites) from a given Reddit URL, such as a subreddit or a specific post.
 
