@@ -74,7 +74,7 @@ Filters the extracted links to include only outbound links (links not pointing t
 Determines if a URL is an outbound link.
 
 ### `display_links.py`
-Displays the list of outbound links in a readable format.
+Displays the list of outbound links in the readable format.
 
 
 
